@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageOutputPath>C:\Users\p876951\source\repos\_nugetRepository\</PackageOutputPath>
+    <PackageOutputPath>C:\Users\Public\_nugetRepository\</PackageOutputPath>
     <IncrementVersionOnBuild>1.yyyy.Mdd.Hmm</IncrementVersionOnBuild>
     <Version>1.2026.930.649</Version>
   </PropertyGroup>
